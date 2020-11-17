@@ -1,0 +1,48 @@
+<00:13:24> Time online: 1.81 minutes
+<00:31:42> Money made: 1600 cents
+<00:50:35> Emails sent: 1 
+<01:02:47> Emails sent: 1 
+<01:35:55> Emails sent: 1 
+<02:13:29> Emails sent: 1 
+<02:33:47> Emails sent: 1 
+<02:53:14> Logins: 1 
+<03:55:49> Emails sent: 1 
+<04:25:54> Money made: 3502 cents
+<04:45:29> Time online: 12.04 minutes
+<05:03:52> Emails sent: 1 
+<05:56:52> Emails sent: 1 
+<06:06:21> Emails sent: 1 
+<06:30:29> Logins: 1 
+<06:44:30> Emails sent: 1 
+<06:44:02> Money made: 2560 cents
+<07:02:53> Time online: 13.77 minutes
+<07:31:47> Emails sent: 1 
+<08:04:14> Emails sent: 1 
+<08:43:33> Emails sent: 1 
+<10:05:14> Emails sent: 1 
+<10:44:38> Emails sent: 1 
+<10:53:17> Logins: 1 
+<11:08:31> Emails sent: 1 
+<11:19:32> Time online: 19.38 minutes
+<11:52:22> Emails sent: 1 
+<12:08:52> Emails sent: 1 
+<13:46:02> Emails sent: 1 
+<14:49:31> Emails sent: 1 
+<14:55:30> Emails sent: 1 
+<15:03:23> Emails sent: 1 
+<15:31:40> Download volume: 67724 bits
+<16:05:08> Logins: 1 
+<16:27:12> Emails sent: 1 
+<17:17:31> Emails sent: 1 
+<17:53:21> Emails sent: 1 
+<18:25:00> Download volume: 148 bits
+<18:35:05> Emails sent: 1 
+<18:46:12> Emails sent: 1 
+<20:15:29> Time online: 59.98 minutes
+<21:05:01> Download volume: 89535 bits
+<21:24:21> Emails sent: 1 
+<21:31:59> Emails sent: 1 
+<21:46:58> Emails sent: 1 
+<21:48:58> Emails sent: 1 
+<22:04:10> Emails sent: 1 
+<22:54:16> Time online: 10.51 minutes

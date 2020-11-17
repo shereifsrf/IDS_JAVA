@@ -1,0 +1,43 @@
+<00:45:49> Emails sent: 1 
+<00:49:17> Emails sent: 1 
+<01:40:50> Emails sent: 1 
+<02:36:40> Money made: 533 cents
+<02:46:48> Emails sent: 1 
+<02:50:19> Emails sent: 1 
+<04:07:42> Emails sent: 1 
+<04:08:34> Logins: 1 
+<04:20:17> Emails sent: 1 
+<04:25:33> Emails sent: 1 
+<05:16:50> Emails sent: 1 
+<05:56:34> Download volume: 21897 bits
+<06:25:13> Money made: 208 cents
+<07:51:37> Emails sent: 1 
+<08:19:44> Logins: 1 
+<08:21:06> Emails sent: 1 
+<08:25:32> Emails sent: 1 
+<08:53:43> Emails sent: 1 
+<10:23:01> Money made: 565 cents
+<10:54:09> Download volume: 9591 bits
+<11:36:40> Time online: 118.59 minutes
+<12:02:35> Emails sent: 1 
+<12:11:33> Emails sent: 1 
+<12:20:17> Download volume: 29259 bits
+<12:47:11> Emails sent: 1 
+<13:25:25> Money made: 387 cents
+<13:50:48> Emails sent: 1 
+<14:19:25> Emails sent: 1 
+<14:50:30> Emails sent: 1 
+<14:53:44> Download volume: 57556 bits
+<16:14:51> Emails sent: 1 
+<16:16:20> Emails sent: 1 
+<16:47:53> Emails sent: 1 
+<17:25:24> Emails sent: 1 
+<18:55:24> Download volume: 33470 bits
+<18:56:01> Emails sent: 1 
+<19:36:36> Emails sent: 1 
+<20:36:53> Emails sent: 1 
+<20:48:14> Emails sent: 1 
+<20:51:33> Emails sent: 1 
+<21:43:22> Money made: 954 cents
+<22:24:24> Emails sent: 1 
+<23:38:57> Emails sent: 1 
